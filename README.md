@@ -1,3 +1,4 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
+- 🇺🇸 I live in the US
